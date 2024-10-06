@@ -1,8 +1,11 @@
-Introduction
+Introduction:
+<br>
 The Hangman game is a word puzzle game where one player thinks of a word, and the other player tries to guess it one letter at a time. 
+<br>
 The game continues until the guesser either guesses the word correctly or makes too many incorrect guesses.
 
-Game Rules
+Game Rules:
+<br>
 You will implement a text-based version of the Hangman game with the following rules:
 • You will choose the words’ length (typically 6 and above).
 • Your goal is to guess the word letter by letter.
